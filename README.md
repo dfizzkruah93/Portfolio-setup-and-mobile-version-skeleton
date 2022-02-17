@@ -1,41 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Portfolio Setup And Mobile Version Skeleton
-This project is been carried out for the purpose of building a professional software developer's portfolio:-
+# Project Name: Hello_Microverse
 
-The following task were carried out to ensure compliance with github flow
+> Description the project. This project is about setting your Github repository and adding a linters file inorder to  develop a mobile skeleton pofolio website
 
-Create Repository
-Create Branch
-Linters Configuration
-Creating commit action with a descriptive commit messages.
 
-Built With
+## Built With
 
-Major languages: Html and CSS, 
-Technologies used are: Git and GitHub
+- Major languages HTML, CSS
+- Technologies used Git, Visual Studio Code
 
-Getting Started*
-This is a way of setting up a developer's portfolio that will be use to present the passed works of the developer thereby show casing the developer's abilty to the world.
 
-Install
-Git and Visual Studio Code
+## Getting Started
 
-Authors
-👤 George D. kruah
+**Use this url to clone the repo on your terminal: https: //github.com/dfizzkruah93/Portfolio-setup-and-mobile-version-skeleton 
 
-GitHub: @dfizzkruah93 •
-Twitter: @DKruah
-LinkedIn: George D Kruah
+### Prerequisites: Internet, Web browser
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+### Setup: Git, VS Code
 
-Show your support
+## Author
+
+👤 George D Kruah
+
+- GitHub: @dfizzkruah93
+- Twitter: @DKruah
+- LinkedIn: George D Kruah
+
+## 🤝 Contributing
+
+To any developer who would wish to contribute to this project, you are welcome!
+
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-• Hat tip to anyone whose code was used • Inspiration • etc
+## Acknowledgments
 
-📝 License
-This project is MIT licensed.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
